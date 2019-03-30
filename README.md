@@ -1,0 +1,3 @@
+# MyDailyTime
+
+* app aplication development.
